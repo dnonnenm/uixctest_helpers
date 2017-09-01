@@ -1,0 +1,16 @@
+PODS:
+  - uitests_tool (0.1.0)
+
+DEPENDENCIES:
+  - uitests_tool (from `../`)
+
+EXTERNAL SOURCES:
+  uitests_tool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  uitests_tool: 3d8ace8f3cb5866a2c07604fb239b3e46746ad6a
+
+PODFILE CHECKSUM: 7efc43b454b72465fe8a06996d6813bd723c9ae7
+
+COCOAPODS: 1.2.1

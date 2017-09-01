@@ -1,0 +1,6 @@
+use_frameworks!
+target 'uitests_tool_Tests' do
+  pod 'uitests_tool', :path => '../'
+  
+  
+end

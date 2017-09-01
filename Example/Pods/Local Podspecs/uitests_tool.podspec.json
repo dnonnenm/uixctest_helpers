@@ -1,0 +1,22 @@
+{
+  "name": "uitests_tool",
+  "version": "0.1.0",
+  "summary": "A short description of uitests_tool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/David Nonnenmacher/uitests_tool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "David Nonnenmacher": "dnonnenm@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/David Nonnenmacher/uitests_tool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "uitests_tool/Classes/**/*"
+}

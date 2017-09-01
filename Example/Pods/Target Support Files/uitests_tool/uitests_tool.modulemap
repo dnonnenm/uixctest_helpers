@@ -1,0 +1,6 @@
+framework module uitests_tool {
+  umbrella header "uitests_tool-umbrella.h"
+
+  export *
+  module * { export * }
+}
